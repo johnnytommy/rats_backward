@@ -9,7 +9,11 @@ print("HELLO DARIKA!!!!")
 
 print("MY FAVORITE RD")
 
+ptint("connection point")
+
+
 
 print("hi Darika, how are u!")
 
 hist(cars$speed)
+
