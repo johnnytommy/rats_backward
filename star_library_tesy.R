@@ -9,3 +9,7 @@ print("HELLO DARIKA!!!!")
 
 print("MY FAVORITE RD")
 
+print("Sup Darika!")
+
+hist(cars$dist)
+
