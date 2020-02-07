@@ -13,3 +13,8 @@ print("Sup Darika!")
 
 hist(cars$dist)
 
+
+print("hi Darika, how are u!")
+
+hist(cars$speed)
+
