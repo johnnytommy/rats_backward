@@ -9,3 +9,7 @@ print("HELLO DARIKA!!!!")
 
 print("MY FAVORITE RD")
 
+
+print("hi Darika, how are u!")
+
+hist(cars$speed)
